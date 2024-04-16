@@ -1,3 +1,5 @@
  встановити бібліотеку requests у віртуальне середовище Pipenv для проекту з назвою 4_project
 https://github.com/maxlukanov/repository2/blob/main/1288.png
 https://github.com/maxlukanov/repository2/edit/main/3423425.png
+Після збереження цих змін і перезапуску сервера Flask, при переході за адресою http://127.0.0.1:5000/
+програма повинна викликати метод requests.get для головної сторінки та повернути відповідь.
